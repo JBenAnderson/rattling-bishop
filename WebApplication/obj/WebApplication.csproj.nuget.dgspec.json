@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jbenanderson/Desktop/Denso/DensoTestVirtualized/rattling-bishop/WebApplication/WebApplication.csproj": {}
+  },
+  "projects": {
+    "/Users/jbenanderson/Desktop/Denso/DensoTestVirtualized/rattling-bishop/WebApplication/WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jbenanderson/Desktop/Denso/DensoTestVirtualized/rattling-bishop/WebApplication/WebApplication.csproj",
+        "projectName": "WebApplication",
+        "projectPath": "/Users/jbenanderson/Desktop/Denso/DensoTestVirtualized/rattling-bishop/WebApplication/WebApplication.csproj",
+        "packagesPath": "/Users/jbenanderson/.nuget/packages/",
+        "outputPath": "/Users/jbenanderson/Desktop/Denso/DensoTestVirtualized/rattling-bishop/WebApplication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jbenanderson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
